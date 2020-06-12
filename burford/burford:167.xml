@@ -1,0 +1,61 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000115_000250_0000</identifier>
+   <titleInfo>
+      <title>Letter, David Burford in Dixon Springs, Tenn., to J. C. Guild, 1835 Sept. 16</title>
+   </titleInfo>
+   <abstract></abstract>
+   <originInfo>
+      <dateCreated>1835 Sept. 16</dateCreated>
+      <dateCreated encoding="edtf">1835-09-16</dateCreated>
+   </originInfo>
+   <name type="personal">
+      <namePart>David Burford</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Slave trade -- Southern States.</topic>
+   </subject>
+   <subject>
+      <topic>Slavery -- Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Slavery -- Virginia.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee. Militia.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- War of 1812.</topic>
+   </subject>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>David Burford Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Burford Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>
