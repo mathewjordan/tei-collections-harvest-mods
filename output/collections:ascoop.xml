@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="collections:ascoop" FEDORA_URI="info:fedora/collections:ascoop"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Air Scoop"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="cdeane"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-07-15T18:19:19.447Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2020-05-13T17:16:20.897Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" FEDORA_URI="info:fedora/collections:ascoop/AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-07-15T18:19:19.447Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-15T18:19:19.655Z</audit:date>
+<audit:justification>Copied datastream from collections:ascoop.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>COLLECTION_POLICY</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T14:18:20.997Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2016-05-05T18:11:13.992Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>PROJECT</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2016-10-27T15:45:48.920Z</audit:date>
+<audit:justification>Copied datastream from collections:ascoop.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>PROJECT</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2016-10-27T15:46:34.338Z</audit:date>
+<audit:justification>Purged datastream (ID=PROJECT), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 1 datastream version(s) (2016-10-27T11:45:48.920Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>PROJECT</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2016-10-27T15:47:19.793Z</audit:date>
+<audit:justification>Copied datastream from collections:ascoop.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mbagget1</audit:responsibility>
+<audit:date>2016-11-16T20:12:28.575Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mbagget1</audit:responsibility>
+<audit:date>2016-11-16T20:12:28.612Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2017-12-15T17:14:22.814Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-07-11T18:30:47.514Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>sobrien6</audit:responsibility>
+<audit:date>2019-02-05T23:01:11.162Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>sobrien6</audit:responsibility>
+<audit:date>2019-02-05T23:01:11.410Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>sobrien6</audit:responsibility>
+<audit:date>2019-02-05T23:01:11.481Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2019-03-12T18:11:00.942Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>awyatt7</audit:responsibility>
+<audit:date>2019-11-12T18:29:07.791Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-03T14:41:48.853Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-03T14:41:48.960Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-03T14:41:49.127Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-03T14:42:55.386Z</audit:date>
+<audit:justification>Purged datastream (ID=MODS), versions ranging from 2019-12-03T09:41:48.960Z to 2019-12-03T09:41:48.960Z.  This resulted in the permanent removal of 1 datastream version(s) (2019-12-03T09:41:48.960Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC20">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-03T16:07:42.241Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC21">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-03T16:07:42.393Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC22">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-04T21:25:59.505Z</audit:date>
+<audit:justification>Purged datastream (ID=MODS), versions ranging from 2019-12-03T11:07:42.241Z to 2019-12-03T11:07:42.241Z.  This resulted in the permanent removal of 1 datastream version(s) (2019-12-03T11:07:42.241Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC23">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-05T20:56:40.741Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC24">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>FEATURED</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-11T16:09:53.669Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC25">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>COLLECTION_POLICY</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2020-04-01T17:28:11.285Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC26">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>awyatt7</audit:responsibility>
+<audit:date>2020-05-13T17:16:20.897Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" FEDORA_URI="info:fedora/collections:ascoop/RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2015-07-15T18:19:19.447Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="558">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/collections:ascoop">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/digital:collections"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:collectionCModel"></fedora-model:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2017-12-15T17:14:22.814Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="666">
+<foxml:xmlContent>
+<rdf:RDF xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/collections:ascoop">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/digital:collections"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:collectionCModel"></fedora-model:hasModel>
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/collections:uarc"></fedora:isMemberOfCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="COLLECTION_POLICY" FEDORA_URI="info:fedora/collections:ascoop/COLLECTION_POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="COLLECTION_POLICY.0" LABEL="Collection policy" CREATED="2015-07-15T18:19:19.447Z" MIMETYPE="text/xml" SIZE="831">
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+ <content_models><content_model name="Islandora Collection Content Model" dsid="ISLANDORACM" namespace="collections" pid="islandora:collectionCModel"></content_model><content_model name="Islandora Basic Image Content Model" dsid="ISLANDORACM" namespace="collections" pid="islandora:sp_basic_image"></content_model><content_model name="Islandora Large Image Content Model" dsid="ISLANDORACM" namespace="collections" pid="islandora:sp_large_image_cmodel"></content_model></content_models>
+ <search_terms></search_terms>
+ <staging_area></staging_area>
+ <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="COLLECTION_POLICY.1" LABEL="Collection policy" CREATED="2015-07-28T14:18:20.997Z" MIMETYPE="text/xml" SIZE="920">
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+  <content_models>
+    <content_model dsid="" name="Islandora Large Image Content Model" namespace="ascoop" pid="islandora:sp_large_image_cmodel"></content_model>
+    <content_model dsid="" name="Islandora Page Content Model" namespace="ascoop" pid="islandora:pageCModel"></content_model>
+    <content_model dsid="" name="Islandora Internet Archive Book Content Model" namespace="ascoop" pid="islandora:bookCModel"></content_model>
+    <content_model dsid="" name="Islandora PDF Content Model" namespace="ascoop" pid="islandora:sp_pdf"></content_model>
+  </content_models>
+  <search_terms></search_terms>
+  <staging_area></staging_area>
+  <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="COLLECTION_POLICY.2" LABEL="Collection policy" CREATED="2020-04-01T17:28:11.285Z" MIMETYPE="text/xml" SIZE="650">
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+  <content_models>
+    <content_model dsid="" name="Islandora Internet Archive Book Content Model" namespace="ascoop" pid="islandora:bookCModel"></content_model>
+    <content_model dsid="" name="Islandora PDF Content Model" namespace="ascoop" pid="islandora:sp_pdf"></content_model>
+  </content_models>
+  <search_terms></search_terms>
+  <staging_area></staging_area>
+  <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" FEDORA_URI="info:fedora/collections:ascoop/MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2015-07-15T18:19:19.447Z" MIMETYPE="text/xml" SIZE="1091">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/MODS/2015-07-15T18:19:19.447Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2016-11-16T20:12:28.575Z" MIMETYPE="application/xml" SIZE="1091">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/MODS/2016-11-16T20:12:28.575Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.2" LABEL="MODS Record" CREATED="2016-11-16T20:12:28.612Z" MIMETYPE="application/xml" SIZE="1084">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/MODS/2016-11-16T20:12:28.612Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.3" LABEL="MODS Record" CREATED="2019-02-05T23:01:11.410Z" MIMETYPE="application/xml" SIZE="3078">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/MODS/2019-02-05T23:01:11.410Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.4" LABEL="MODS Record" CREATED="2019-11-12T18:29:07.791Z" MIMETYPE="application/xml" SIZE="3152">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/MODS/2019-11-12T18:29:07.791Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.5" LABEL="MODS Record" CREATED="2019-12-05T20:56:40.741Z" MIMETYPE="application/xml" SIZE="2948">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/MODS/2019-12-05T20:56:40.741Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.6" LABEL="MODS Record" CREATED="2020-05-13T17:16:20.897Z" MIMETYPE="application/xml" SIZE="3059">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/MODS/2020-05-13T17:16:20.897Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" FEDORA_URI="info:fedora/collections:ascoop/DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2015-07-15T18:19:19.447Z" MIMETYPE="text/xml" SIZE="412">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>AirScoop</dc:title>
+  <dc:identifier>collections:ascoop</dc:identifier>
+  <dc:language>eng</dc:language>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="DC Record" CREATED="2019-02-05T23:01:11.481Z" MIMETYPE="text/xml" SIZE="1363">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Air Scoop :: The Air Force Cadet Newspaper.</dc:title>
+  <dc:subject>Student newspapers and periodicals</dc:subject>
+  <dc:description>The Air Scoop weekly newsletter informed and entertained members of the 63rd College Training Detachment based at the University of Tennessee during World War II. The detachment’s goal was to run a publication for and by aviation students in the detachment in order to unify the organization and to share news related to military training and social events occurring on and around the Knoxville campus.</dc:description>
+  <dc:contributor>(University of Tennessee (Knoxville campus))</dc:contributor>
+  <dc:type>Newspapers</dc:type>
+  <dc:identifier>collections:ascoop</dc:identifier>
+  <dc:identifier>https://digital.lib.utk.edu/collections/airscoopcollection/</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>University of Tennessee Aviation Cadets Collection,1943-1944.</dc:relation>
+  <dc:coverage>Knoxville</dc:coverage>
+  <dc:coverage>1943-1944.</dc:coverage>
+  <dc:coverage>Tennessee</dc:coverage>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="DC Record" CREATED="2019-12-03T14:41:49.127Z" MIMETYPE="text/xml" SIZE="1278">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Air Scoop</dc:title>
+  <dc:subject>Student newspapers and periodicals</dc:subject>
+  <dc:subject>Air pilots</dc:subject>
+  <dc:subject>World War, 1939-1945</dc:subject>
+  <dc:description>Weekly newsletter created for and by aviation students during WWII in order to unify the university and share news related to military training and social events occurring around the Knoxville campus.</dc:description>
+  <dc:contributor>United States. Army Air Forces. College Training Detachment, 63rd (Creator)</dc:contributor>
+  <dc:date>1943-1944</dc:date>
+  <dc:type>Collection</dc:type>
+  <dc:type>Text</dc:type>
+  <dc:format>26 periodicals</dc:format>
+  <dc:identifier>collections:ascoop</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Air Scoop: The Air Force Cadet Newspaper</dc:relation>
+  <dc:relation>University of Tennessee Aviation Cadets Collection, 1943-1944
+            --MS.2816</dc:relation>
+  <dc:rights>No Copyright - United States</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="DC Record" CREATED="2019-12-03T16:07:42.393Z" MIMETYPE="text/xml" SIZE="1278">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Air Scoop</dc:title>
+  <dc:subject>Student newspapers and periodicals</dc:subject>
+  <dc:subject>Air pilots</dc:subject>
+  <dc:subject>World War, 1939-1945</dc:subject>
+  <dc:description>Weekly newsletter created for and by aviation students during WWII in order to unify the university and share news related to military training and social events occurring around the Knoxville campus.</dc:description>
+  <dc:contributor>United States. Army Air Forces. College Training Detachment, 63rd (Creator)</dc:contributor>
+  <dc:date>1943-1944</dc:date>
+  <dc:type>Collection</dc:type>
+  <dc:type>Text</dc:type>
+  <dc:format>26 periodicals</dc:format>
+  <dc:identifier>collections:ascoop</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Air Scoop: The Air Force Cadet Newspaper</dc:relation>
+  <dc:relation>University of Tennessee Aviation Cadets Collection, 1943-1944
+            --MS.2816</dc:relation>
+  <dc:rights>No Copyright - United States</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" FEDORA_URI="info:fedora/collections:ascoop/TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2015-07-15T18:19:19.655Z" MIMETYPE="image/png" SIZE="5137">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/TN/2015-07-15T18:19:19.655Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.1" LABEL="Thumbnail" CREATED="2016-05-05T18:11:13.992Z" MIMETYPE="image/png" SIZE="44659">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/TN/2016-05-05T18:11:13.992Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PROJECT" FEDORA_URI="info:fedora/collections:ascoop/PROJECT" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PROJECT.0" LABEL="airscoop-project" CREATED="2016-10-27T15:47:19.793Z" MIMETYPE="application/x-zip" SIZE="272088">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/PROJECT/2016-10-27T15:47:19.793Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="FEATURED" FEDORA_URI="info:fedora/collections:ascoop/FEATURED" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="FEATURED.0" LABEL="Featured Item" CREATED="2019-12-11T16:09:53.669Z" MIMETYPE="image/jpeg" SIZE="3123924">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:ascoop/FEATURED/2019-12-11T16:09:53.669Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="ascoop:1507160001" FEDORA_URI="info:fedora/ascoop:1507160001"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="cdeane"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-07-28T22:14:26.066Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2017-12-05T22:14:44.410Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" FEDORA_URI="info:fedora/ascoop:1507160001/AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-07-28T22:14:26.066Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:26.174Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:41.942Z</audit:date>
+<audit:justification>Copied datastream from ascoop:1507160001.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>PDF</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:15:39.000Z</audit:date>
+<audit:justification>Copied datastream from ascoop:1507160001.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>bdysonsm</audit:responsibility>
+<audit:date>2016-04-29T14:44:15.291Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2016-05-26T16:42:10.464Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2016-09-08T02:34:21.972Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2016-09-08T02:38:57.302Z</audit:date>
+<audit:justification> . . . Purged datastream (ID=MODS), versions ranging from 2015-07-28T18:14:26.066Z to 2015-07-28T18:14:26.066Z.  This resulted in the permanent removal of 1 datastream version(s) (2015-07-28T18:14:26.066Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-07-12T16:59:19.050Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-07-12T16:59:19.078Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-07-14T18:14:10.958Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-07-14T18:14:10.984Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-12-05T22:14:44.369Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-12-05T22:14:44.410Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" FEDORA_URI="info:fedora/ascoop:1507160001/RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2015-07-28T22:14:26.066Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="662">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/ascoop:1507160001">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/collections:ascoop"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:bookCModel"></fedora-model:hasModel>
+    <islandora:create_pdf>true</islandora:create_pdf>
+    <islandora:book-batched>true</islandora:book-batched>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2015-07-28T22:14:26.174Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="604">
+<foxml:xmlContent>
+<rdf:RDF xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/ascoop:1507160001">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/collections:ascoop"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:bookCModel"></fedora-model:hasModel>
+    <islandora:create_pdf>true</islandora:create_pdf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" FEDORA_URI="info:fedora/ascoop:1507160001/MODS" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2016-09-08T02:34:21.972Z" MIMETYPE="text/xml" SIZE="3773">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="b8ff56cc5f5985c7d64f002e601385c94186f661a0f3c067f8e089188f9c67dc"/>
+<foxml:xmlContent>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+   <identifier type="local">airscoop_vol1-no1</identifier>
+   <identifier type="opac">9913484060102311</identifier>
+   <name>
+      <namePart>United States. Army Air Forces. College Training Detachment, 63rd</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator" valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</title>
+   </titleInfo>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <publisher>University of Tennessee</publisher>
+      <dateCreated>10/9/1943</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1943-10-09</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>4 newspaper pages</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">College student newspapers and periodicals</genre>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>This is a publication by students at the University of Tennessee, Knoxville.</note>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject authority="lcsh">
+      <topic>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064N, 83.92074W</coordinates>
+      </cartographics>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Air Scoop: The Air Force Cadet Newspaper</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>University of Tennessee Aviation Cadets Collection, 1943-1944</title>
+      </titleInfo>
+      <identifier type="local">MS.2816</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Air Scoop</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>Volume 1</number>
+         </detail>
+         <detail type="issue">
+            <number>Number 1</number>
+         </detail>
+      </part>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_airscoop_vol1-no1</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.2" LABEL="MODS Record" CREATED="2017-07-12T16:59:19.050Z" MIMETYPE="application/xml" SIZE="3773">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="b8ff56cc5f5985c7d64f002e601385c94186f661a0f3c067f8e089188f9c67dc"/>
+<foxml:xmlContent>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+   <identifier type="local">airscoop_vol1-no1</identifier>
+   <identifier type="opac">9913484060102311</identifier>
+   <name>
+      <namePart>United States. Army Air Forces. College Training Detachment, 63rd</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator" valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</title>
+   </titleInfo>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <publisher>University of Tennessee</publisher>
+      <dateCreated>10/9/1943</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1943-10-09</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>4 newspaper pages</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">College student newspapers and periodicals</genre>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>This is a publication by students at the University of Tennessee, Knoxville.</note>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject authority="lcsh">
+      <topic>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064N, 83.92074W</coordinates>
+      </cartographics>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Air Scoop: The Air Force Cadet Newspaper</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>University of Tennessee Aviation Cadets Collection, 1943-1944</title>
+      </titleInfo>
+      <identifier type="local">MS.2816</identifier>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Air Scoop</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>Volume 1</number>
+         </detail>
+         <detail type="issue">
+            <number>Number 1</number>
+         </detail>
+      </part>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_airscoop_vol1-no1</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.3" LABEL="MODS Record" CREATED="2017-07-12T16:59:19.078Z" MIMETYPE="application/xml" SIZE="3636">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="45b858b730455ecff7bab2242adbe63c444c74d8357d9acfe44702fe9d07eeb6"/>
+<foxml:xmlContent>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">airscoop_vol1-no1</identifier>
+  <identifier type="opac">9913484060102311</identifier>
+  <name>
+    <namePart>United States. Army Air Forces. College Training Detachment, 63rd</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text" valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place supplied="yes">
+      <placeTerm type="text" valueURI="">Knoxville (Tenn.)</placeTerm>
+    </place>
+    <publisher>University of Tennessee</publisher>
+    <dateCreated>10/9/1943</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes">1943-10-09</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>4 newspaper pages</extent>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <genre authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">College student newspapers and periodicals</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>This is a publication by students at the University of Tennessee, Knoxville.</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+  </location>
+  <subject authority="lcsh">
+    <topic>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064N, 83.92074W</coordinates>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Air Scoop: The Air Force Cadet Newspaper</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>University of Tennessee Aviation Cadets Collection, 1943-1944</title>
+    </titleInfo>
+    <identifier type="local">MS.2816</identifier>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Air Scoop</title>
+    </titleInfo>
+    <part>
+      <detail type="volume">
+        <number>Volume 1</number>
+      </detail>
+      <detail type="issue">
+        <number>Number 1</number>
+      </detail>
+    </part>
+  </relatedItem>
+  <accessCondition type="local rights statement">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_airscoop_vol1-no1</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.4" LABEL="MODS Record" CREATED="2017-07-14T18:14:10.958Z" MIMETYPE="application/xml" SIZE="3636">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="45b858b730455ecff7bab2242adbe63c444c74d8357d9acfe44702fe9d07eeb6"/>
+<foxml:xmlContent>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">airscoop_vol1-no1</identifier>
+  <identifier type="opac">9913484060102311</identifier>
+  <name>
+    <namePart>United States. Army Air Forces. College Training Detachment, 63rd</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text" valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place supplied="yes">
+      <placeTerm type="text" valueURI="">Knoxville (Tenn.)</placeTerm>
+    </place>
+    <publisher>University of Tennessee</publisher>
+    <dateCreated>10/9/1943</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes">1943-10-09</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>4 newspaper pages</extent>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <genre authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">College student newspapers and periodicals</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>This is a publication by students at the University of Tennessee, Knoxville.</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+  </location>
+  <subject authority="lcsh">
+    <topic>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064N, 83.92074W</coordinates>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Air Scoop: The Air Force Cadet Newspaper</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>University of Tennessee Aviation Cadets Collection, 1943-1944</title>
+    </titleInfo>
+    <identifier type="local">MS.2816</identifier>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Air Scoop</title>
+    </titleInfo>
+    <part>
+      <detail type="volume">
+        <number>Volume 1</number>
+      </detail>
+      <detail type="issue">
+        <number>Number 1</number>
+      </detail>
+    </part>
+  </relatedItem>
+  <accessCondition type="local rights statement">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_airscoop_vol1-no1</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.5" LABEL="MODS Record" CREATED="2017-07-14T18:14:10.984Z" MIMETYPE="application/xml" SIZE="3590">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="1200f7ab1e8057faa0778825184dced1a87db8488fd650c526ffe66e90870543"/>
+<foxml:xmlContent>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">airscoop_vol1-no1</identifier>
+  <identifier type="opac">9913484060102311</identifier>
+  <name>
+    <namePart>United States. Army Air Forces. College Training Detachment, 63rd</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text" valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place supplied="yes">
+      <placeTerm type="text" valueURI="">Knoxville (Tenn.)</placeTerm>
+    </place>
+    <publisher>University of Tennessee</publisher>
+    <dateCreated>10/9/1943</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes">1943-10-09</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>4 newspaper pages</extent>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <genre authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">College student newspapers and periodicals</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>This is a publication by students at the University of Tennessee, Knoxville.</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+  </location>
+  <subject authority="lcsh">
+    <topic>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064N, 83.92074W</coordinates>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Air Scoop: The Air Force Cadet Newspaper</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>University of Tennessee Aviation Cadets Collection, 1943-1944</title>
+    </titleInfo>
+    <identifier type="local">MS.2816</identifier>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Air Scoop</title>
+    </titleInfo>
+    <part>
+      <detail type="volume">
+        <number>Volume 1</number>
+      </detail>
+      <detail type="issue">
+        <number>Number 1</number>
+      </detail>
+    </part>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_airscoop_vol1-no1</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.6" LABEL="MODS Record" CREATED="2017-12-05T22:14:44.369Z" MIMETYPE="application/xml" SIZE="3590">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="1200f7ab1e8057faa0778825184dced1a87db8488fd650c526ffe66e90870543"/>
+<foxml:xmlContent>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">airscoop_vol1-no1</identifier>
+  <identifier type="opac">9913484060102311</identifier>
+  <name>
+    <namePart>United States. Army Air Forces. College Training Detachment, 63rd</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text" valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place supplied="yes">
+      <placeTerm type="text" valueURI="">Knoxville (Tenn.)</placeTerm>
+    </place>
+    <publisher>University of Tennessee</publisher>
+    <dateCreated>10/9/1943</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes">1943-10-09</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>4 newspaper pages</extent>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <genre authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">College student newspapers and periodicals</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>This is a publication by students at the University of Tennessee, Knoxville.</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+  </location>
+  <subject authority="lcsh">
+    <topic>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064N, 83.92074W</coordinates>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Air Scoop: The Air Force Cadet Newspaper</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>University of Tennessee Aviation Cadets Collection, 1943-1944</title>
+    </titleInfo>
+    <identifier type="local">MS.2816</identifier>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Air Scoop</title>
+    </titleInfo>
+    <part>
+      <detail type="volume">
+        <number>Volume 1</number>
+      </detail>
+      <detail type="issue">
+        <number>Number 1</number>
+      </detail>
+    </part>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_airscoop_vol1-no1</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.7" LABEL="MODS Record" CREATED="2017-12-05T22:14:44.410Z" MIMETYPE="application/xml" SIZE="3700">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="81596c1bcbefa164bb2f32a95188e17238a0e2b0988c47907ec36828b3c7d035"/>
+<foxml:xmlContent>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">airscoop_vol1-no1</identifier>
+  <identifier type="opac">9913484060102311</identifier>
+  <name>
+    <namePart>United States. Army Air Forces. College Training Detachment, 63rd</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text" valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place supplied="yes">
+      <placeTerm type="text" valueURI="">Knoxville (Tenn.)</placeTerm>
+    </place>
+    <publisher>University of Tennessee</publisher>
+    <dateCreated>10/9/1943</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes">1943-10-09</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>4 newspaper pages</extent>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <genre authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">College student newspapers and periodicals</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>This is a publication by students at the University of Tennessee, Knoxville.</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+  </location>
+  <subject authority="lcsh">
+    <topic>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064N, 83.92074W</coordinates>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Air Scoop: The Air Force Cadet Newspaper</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>University of Tennessee Aviation Cadets Collection, 1943-1944</title>
+    </titleInfo>
+    <identifier type="local">MS.2816</identifier>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Air Scoop</title>
+    </titleInfo>
+    <part>
+      <detail type="volume">
+        <number>Volume 1</number>
+      </detail>
+      <detail type="issue">
+        <number>Number 1</number>
+      </detail>
+    </part>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_airscoop_vol1-no1</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
+</mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" FEDORA_URI="info:fedora/ascoop:1507160001/DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2015-07-28T22:14:26.066Z" MIMETYPE="text/xml" SIZE="1736">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</dc:title>
+  <dc:subject>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</dc:subject>
+  <dc:subject>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>This is a publication by students at the University of Tennessee, Knoxville.</dc:description>
+  <dc:publisher>University of Tennessee</dc:publisher>
+  <dc:contributor>United States. Army Air Forces. College Training Detachment, 63rd (Creator)</dc:contributor>
+  <dc:date>10/9/1943</dc:date>
+  <dc:date>1943-10-09</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>College student newspapers and periodicals</dc:type>
+  <dc:format>4 newspaper pages</dc:format>
+  <dc:format>periodicals</dc:format>
+  <dc:identifier>ascoop:1507160001</dc:identifier>
+  <dc:identifier>local: airscoop_vol1-no1</dc:identifier>
+  <dc:identifier>opac: 9913484060102311</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>Air Scoop: The Air Force Cadet Newspaper</dc:relation>
+  <dc:relation>University of Tennessee Aviation Cadets Collection, 1943-1944--MS.2816</dc:relation>
+  <dc:coverage>Knoxville (Tenn.)</dc:coverage>
+  <dc:coverage>35.96064N, 83.92074W</dc:coverage>
+  <dc:rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="DC Record" CREATED="2016-04-29T14:44:15.291Z" MIMETYPE="text/xml" SIZE="1736">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</dc:title>
+  <dc:subject>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</dc:subject>
+  <dc:subject>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>This is a publication by students at the University of Tennessee, Knoxville.</dc:description>
+  <dc:publisher>University of Tennessee</dc:publisher>
+  <dc:contributor>United States. Army Air Forces. College Training Detachment, 63rd (Creator)</dc:contributor>
+  <dc:date>10/9/1943</dc:date>
+  <dc:date>1943-10-09</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>College student newspapers and periodicals</dc:type>
+  <dc:format>4 newspaper pages</dc:format>
+  <dc:format>periodicals</dc:format>
+  <dc:identifier>ascoop:1507160001</dc:identifier>
+  <dc:identifier>local: airscoop_vol1-no1</dc:identifier>
+  <dc:identifier>opac: 9913484060102311</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>Air Scoop: The Air Force Cadet Newspaper</dc:relation>
+  <dc:relation>University of Tennessee Aviation Cadets Collection, 1943-1944--MS.2816</dc:relation>
+  <dc:coverage>Knoxville (Tenn.)</dc:coverage>
+  <dc:coverage>35.96064N, 83.92074W</dc:coverage>
+  <dc:rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="DC Record" CREATED="2016-05-26T16:42:10.464Z" MIMETYPE="text/xml" SIZE="1708">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</dc:title>
+  <dc:subject>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</dc:subject>
+  <dc:subject>Student newspapers and periodicals–Tennessee–Knoxville--1943-1944</dc:subject>
+  <dc:description>This is a publication by students at the University of Tennessee, Knoxville.</dc:description>
+  <dc:publisher>University of Tennessee</dc:publisher>
+  <dc:contributor>United States. Army Air Forces. College Training Detachment, 63rd (Creator)</dc:contributor>
+  <dc:date>10/9/1943</dc:date>
+  <dc:date>1943-10-09</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>College student newspapers and periodicals</dc:type>
+  <dc:format>4 newspaper pages</dc:format>
+  <dc:format>periodicals</dc:format>
+  <dc:identifier>ascoop:1507160001</dc:identifier>
+  <dc:identifier>local: airscoop_vol1-no1</dc:identifier>
+  <dc:identifier>opac: 9913484060102311</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>Air Scoop: The Air Force Cadet Newspaper</dc:relation>
+  <dc:relation>University of Tennessee Aviation Cadets Collection, 1943-1944--MS.2816</dc:relation>
+  <dc:coverage>Knoxville (Tenn.)</dc:coverage>
+  <dc:coverage>35.96064N, 83.92074W</dc:coverage>
+  <dc:rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" FEDORA_URI="info:fedora/ascoop:1507160001/TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2015-07-28T22:14:41.942Z" MIMETYPE="image/jpeg" SIZE="14726">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160001/TN/2015-07-28T22:14:41.942Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PDF" FEDORA_URI="info:fedora/ascoop:1507160001/PDF" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PDF.0" LABEL="PDF" CREATED="2015-07-28T22:15:39.000Z" MIMETYPE="application/pdf" SIZE="3125834">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160001/PDF/2015-07-28T22:15:39.000Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

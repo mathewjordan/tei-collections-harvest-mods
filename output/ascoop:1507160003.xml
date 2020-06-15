@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="ascoop:1507160003" FEDORA_URI="info:fedora/ascoop:1507160003"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="cdeane"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-07-28T22:14:24.889Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2017-12-05T22:14:44.805Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" FEDORA_URI="info:fedora/ascoop:1507160003/AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-07-28T22:14:24.889Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:41.057Z</audit:date>
+<audit:justification>Copied datastream from ascoop:1507160003.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>JPG</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:41.447Z</audit:date>
+<audit:justification>Copied datastream from ascoop:1507160003.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>JP2</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:42.988Z</audit:date>
+<audit:justification>Copied datastream from ascoop:1507160003.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>PDF</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:45.795Z</audit:date>
+<audit:justification>Copied datastream from ascoop:1507160003.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TECHMD</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:55.399Z</audit:date>
+<audit:justification>Copied datastream from ascoop:1507160003.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:56.355Z</audit:date>
+<audit:justification>Copied datastream from ascoop:1507160003.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:14:56.455Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>PDF</audit:componentID>
+<audit:responsibility>cdeane</audit:responsibility>
+<audit:date>2015-07-28T22:15:28.556Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>HOCR</audit:componentID>
+<audit:responsibility>bdysonsm</audit:responsibility>
+<audit:date>2016-04-27T20:52:29.652Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2016-09-08T02:34:39.806Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>OBJ</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2016-09-08T02:34:39.856Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>OBJ</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2016-09-08T02:36:46.890Z</audit:date>
+<audit:justification> . . . Purged datastream (ID=OBJ), versions ranging from 2015-07-28T18:14:24.889Z to 2015-07-28T18:14:24.889Z.  This resulted in the permanent removal of 1 datastream version(s) (2015-07-28T18:14:24.889Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>PDF</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2016-09-08T02:37:52.654Z</audit:date>
+<audit:justification> . . . Purged datastream (ID=PDF), versions ranging from 2015-07-28T18:14:45.795Z to 2015-07-28T18:14:45.795Z.  This resulted in the permanent removal of 1 datastream version(s) (2015-07-28T18:14:45.795Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2016-09-08T02:38:57.376Z</audit:date>
+<audit:justification> . . . Purged datastream (ID=MODS), versions ranging from 2015-07-28T18:14:24.889Z to 2015-07-28T18:14:24.889Z.  This resulted in the permanent removal of 1 datastream version(s) (2015-07-28T18:14:24.889Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-07-12T16:59:19.175Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-07-12T16:59:19.206Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-07-14T18:14:11.083Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-07-14T18:14:11.113Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-12-05T22:14:44.721Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC20">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2017-12-05T22:14:44.805Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" FEDORA_URI="info:fedora/ascoop:1507160003/RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2015-07-28T22:14:24.889Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="845">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/ascoop:1507160003">
+    <islandora:isPageOf rdf:resource="info:fedora/ascoop:1507160001"></islandora:isPageOf>
+    <islandora:isSequenceNumber>1</islandora:isSequenceNumber>
+    <islandora:isPageNumber>1</islandora:isPageNumber>
+    <islandora:isSection>1</islandora:isSection>
+    <fedora:isMemberOf rdf:resource="info:fedora/ascoop:1507160001"></fedora:isMemberOf>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:pageCModel"></fedora-model:hasModel>
+    <islandora:generate_ocr>TRUE</islandora:generate_ocr>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" FEDORA_URI="info:fedora/ascoop:1507160003/MODS" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2016-09-08T02:34:39.806Z" MIMETYPE="text/xml" SIZE="233">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="41ab682eb1c6f1a7c252b386821fc32a6829c38def2dc8108e20e736ec8df716"/>
+<foxml:xmlContent>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3">
+  <mods:titleInfo>
+    <mods:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1</mods:title>
+  </mods:titleInfo>
+</mods:mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.2" LABEL="MODS Record" CREATED="2017-07-12T16:59:19.175Z" MIMETYPE="application/xml" SIZE="233">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="41ab682eb1c6f1a7c252b386821fc32a6829c38def2dc8108e20e736ec8df716"/>
+<foxml:xmlContent>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3">
+  <mods:titleInfo>
+    <mods:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1</mods:title>
+  </mods:titleInfo>
+</mods:mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.3" LABEL="MODS Record" CREATED="2017-07-12T16:59:19.206Z" MIMETYPE="application/xml" SIZE="233">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="41ab682eb1c6f1a7c252b386821fc32a6829c38def2dc8108e20e736ec8df716"/>
+<foxml:xmlContent>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:titleInfo>
+    <mods:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1</mods:title>
+  </mods:titleInfo>
+</mods:mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.4" LABEL="MODS Record" CREATED="2017-07-14T18:14:11.083Z" MIMETYPE="application/xml" SIZE="233">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="41ab682eb1c6f1a7c252b386821fc32a6829c38def2dc8108e20e736ec8df716"/>
+<foxml:xmlContent>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:titleInfo>
+    <mods:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1</mods:title>
+  </mods:titleInfo>
+</mods:mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.5" LABEL="MODS Record" CREATED="2017-07-14T18:14:11.113Z" MIMETYPE="application/xml" SIZE="233">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="41ab682eb1c6f1a7c252b386821fc32a6829c38def2dc8108e20e736ec8df716"/>
+<foxml:xmlContent>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:titleInfo>
+    <mods:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1</mods:title>
+  </mods:titleInfo>
+</mods:mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.6" LABEL="MODS Record" CREATED="2017-12-05T22:14:44.721Z" MIMETYPE="application/xml" SIZE="233">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="41ab682eb1c6f1a7c252b386821fc32a6829c38def2dc8108e20e736ec8df716"/>
+<foxml:xmlContent>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:titleInfo>
+    <mods:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1</mods:title>
+  </mods:titleInfo>
+</mods:mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.7" LABEL="MODS Record" CREATED="2017-12-05T22:14:44.805Z" MIMETYPE="application/xml" SIZE="353">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="3f8bf6c7319757ce6c3c8e06e3bf59f003dea1f055af8e3c56523f63ee898001"/>
+<foxml:xmlContent>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:titleInfo>
+    <mods:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1</mods:title>
+  </mods:titleInfo>
+  <mods:note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</mods:note>
+</mods:mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" FEDORA_URI="info:fedora/ascoop:1507160003/DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2015-07-28T22:14:24.889Z" MIMETYPE="text/xml" SIZE="433">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1 : page 1</dc:title>
+  <dc:identifier>ascoop:1507160003</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" FEDORA_URI="info:fedora/ascoop:1507160003/OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.1" LABEL="OBJ Datastream" CREATED="2016-09-08T02:34:39.856Z" MIMETYPE="image/tiff" SIZE="8859502">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="5b99dfe64b3808d6e9492a559f4f268e23be184c0bc55e19374d1b1f0282c4ed"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/OBJ/2016-09-08T02:34:39.856Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OCR" FEDORA_URI="info:fedora/ascoop:1507160003/OCR" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OCR.0" LABEL="OCR Datastream" CREATED="2015-07-28T22:14:24.889Z" MIMETYPE="text/plain" SIZE="4199">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/OCR/2015-07-28T22:14:24.889Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="HOCR" FEDORA_URI="info:fedora/ascoop:1507160003/HOCR" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="HOCR.0" LABEL="HOCR Datastream" CREATED="2015-07-28T22:14:24.889Z" MIMETYPE="text/html" SIZE="76349">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/HOCR/2015-07-28T22:14:24.889Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="HOCR.1" LABEL="HOCR Datastream" CREATED="2016-04-27T20:52:29.652Z" MIMETYPE="text/html" SIZE="76223">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/HOCR/2016-04-27T20:52:29.652Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" FEDORA_URI="info:fedora/ascoop:1507160003/TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2015-07-28T22:14:41.057Z" MIMETYPE="image/jpeg" SIZE="14726">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/TN/2015-07-28T22:14:41.057Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="JPG" FEDORA_URI="info:fedora/ascoop:1507160003/JPG" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="JPG.0" LABEL="Medium sized JPEG" CREATED="2015-07-28T22:14:41.447Z" MIMETYPE="image/jpeg" SIZE="76642">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/JPG/2015-07-28T22:14:41.447Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="JP2" FEDORA_URI="info:fedora/ascoop:1507160003/JP2" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="JP2.0" LABEL="JPEG 2000" CREATED="2015-07-28T22:14:42.988Z" MIMETYPE="image/jp2" SIZE="4873364">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/JP2/2015-07-28T22:14:42.988Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PDF" FEDORA_URI="info:fedora/ascoop:1507160003/PDF" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PDF.1" LABEL="PDF" CREATED="2015-07-28T22:15:28.556Z" MIMETYPE="application/pdf" SIZE="6737820">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/PDF/2015-07-28T22:15:28.556Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TECHMD" FEDORA_URI="info:fedora/ascoop:1507160003/TECHMD" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TECHMD.0" LABEL="TECHMD" CREATED="2015-07-28T22:14:55.399Z" MIMETYPE="application/xml" SIZE="7057">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/ascoop:1507160003/TECHMD/2015-07-28T22:14:55.399Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-INT" FEDORA_URI="info:fedora/ascoop:1507160003/RELS-INT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-INT.0" LABEL="Fedora Relationship Metadata." CREATED="2015-07-28T22:14:56.355Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="291">
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/ascoop:1507160003/JP2">
+    <width xmlns="http://islandora.ca/ontology/relsext#">2352</width>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.1" LABEL="Fedora Relationship Metadata." CREATED="2015-07-28T22:14:56.455Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="363">
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/ascoop:1507160003/JP2">
+    <width xmlns="http://islandora.ca/ontology/relsext#">2352</width>
+    <height xmlns="http://islandora.ca/ontology/relsext#">3762</height>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

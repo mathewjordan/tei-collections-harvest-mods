@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="collections:knoxgardens" FEDORA_URI="info:fedora/collections:knoxgardens"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Knoxville Garden Slides"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="comyn7"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2018-03-23T13:07:25.740Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2020-05-14T15:38:51.296Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" FEDORA_URI="info:fedora/collections:knoxgardens/AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2018-03-23T13:07:25.740Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-03-23T13:07:26.436Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>mbagget1</audit:responsibility>
+<audit:date>2018-05-17T00:42:34.184Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>PROJECT</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-10-05T18:00:45.429Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-01-15T16:27:24.403Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-02-11T20:05:18.879Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>COLLECTION_POLICY</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-02-11T20:06:02.024Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>COLLECTION_POLICY</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-02-11T20:06:02.082Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-02-11T20:06:40.126Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>COLLECTION_POLICY</audit:componentID>
+<audit:responsibility>dricha28</audit:responsibility>
+<audit:date>2019-02-13T16:30:42.286Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>COLLECTION_POLICY</audit:componentID>
+<audit:responsibility>dricha28</audit:responsibility>
+<audit:date>2019-02-13T16:30:42.332Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-02-13T16:42:31.673Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>sobrien6</audit:responsibility>
+<audit:date>2019-02-22T13:21:59.286Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>sobrien6</audit:responsibility>
+<audit:date>2019-02-22T13:21:59.380Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>sobrien6</audit:responsibility>
+<audit:date>2019-02-22T13:21:59.477Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>FEATURED</audit:componentID>
+<audit:responsibility>mjorda</audit:responsibility>
+<audit:date>2019-10-04T16:27:43.092Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>FEATURED</audit:componentID>
+<audit:responsibility>mjorda</audit:responsibility>
+<audit:date>2019-10-14T17:00:51.943Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>FEATURED</audit:componentID>
+<audit:responsibility>mjorda</audit:responsibility>
+<audit:date>2019-10-15T14:25:00.316Z</audit:date>
+<audit:justification>Purged datastream (ID=FEATURED), versions ranging from 2019-10-04T12:27:43.092Z to 2019-10-04T12:27:43.092Z.  This resulted in the permanent removal of 1 datastream version(s) (2019-10-04T12:27:43.092Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-10-15T14:33:08.865Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>FEATURED</audit:componentID>
+<audit:responsibility>dricha28</audit:responsibility>
+<audit:date>2019-10-15T17:21:40.195Z</audit:date>
+<audit:justification>Purged datastream (ID=FEATURED), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 1 datastream version(s) (2019-10-14T13:00:51.943Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC20">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>FEATURED</audit:componentID>
+<audit:responsibility>dricha28</audit:responsibility>
+<audit:date>2019-10-15T17:22:26.134Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC21">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-10-16T15:35:55.463Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC22">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-06T19:40:01.767Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC23">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-06T19:40:01.914Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC24">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>mhale16</audit:responsibility>
+<audit:date>2019-12-06T19:40:31.064Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC25">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>awyatt7</audit:responsibility>
+<audit:date>2020-05-14T15:38:51.296Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" FEDORA_URI="info:fedora/collections:knoxgardens/RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2018-03-23T13:07:25.740Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="563">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/collections:knoxgardens">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/digital:collections"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:collectionCModel"></fedora-model:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="COLLECTION_POLICY" FEDORA_URI="info:fedora/collections:knoxgardens/COLLECTION_POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="COLLECTION_POLICY.0" LABEL="Collection policy" CREATED="2018-03-23T13:07:25.740Z" MIMETYPE="text/xml" SIZE="535">
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+  <content_models>
+    <content_model name="Islandora Large Image Content Model" dsid="" namespace="knoxgardens" pid="islandora:sp_large_image_cmodel"></content_model>
+  </content_models>
+  <search_terms></search_terms>
+  <staging_area></staging_area>
+  <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="COLLECTION_POLICY.1" LABEL="Collection policy" CREATED="2019-02-11T20:06:02.024Z" MIMETYPE="application/xml" SIZE="535">
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+  <content_models>
+    <content_model name="Islandora Large Image Content Model" dsid="" namespace="knoxgardens" pid="islandora:sp_large_image_cmodel"></content_model>
+  </content_models>
+  <search_terms></search_terms>
+  <staging_area></staging_area>
+  <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="COLLECTION_POLICY.2" LABEL="Collection policy" CREATED="2019-02-11T20:06:02.082Z" MIMETYPE="application/xml" SIZE="4001">
+<foxml:xmlContent>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Knoxville Garden Slides</title>
+  </titleInfo>
+  <name authority="naf" type="corporate" valueURI="http://id.loc.gov/authorities/names/no2018075078">
+    <namePart>Jim Thompson Company</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Bruner, Mrs. A. C.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes">still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1927</dateCreated>
+    <dateCreated encoding="edtf" point="end">1939</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <abstract>This digital collection of hand-colored lantern slides dates from the late 1920s and early 1930s. The slides depict ornamental gardens in the Knoxville, Tennessee, area and feature a variety of garden styles, plants, flowers, and foliage. They illustrate the rich tradition of gardening and beautification in Knoxville.
+        
+        Some of the slides are credited to Knoxville photographer, Jim Thompson, and it is possible that he produced all of them. Mrs. A.C. Bruner, an eminent member of the Knoxville Garden Club, donated the collection to the UT Libraries. The Knoxville Garden Club was organized in 1923 and was admitted nine years later to the Garden Club of America. Members of the club not only created and showed their own residential gardens but also worked throughout the Knoxville community to sponsor horticulture programs, host civic plantings, and support many other beautification efforts. In 1955, the club established the Dogwood Trails, which evolved into the Dogwood Arts Festival, an annual celebration of the area&apos;s culture and natural beauty that today attracts thousands of visitors.</abstract>
+  <physicalDescription>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300134977">lantern slides</form>
+    <extent>99 lantern slides</extent>
+  </physicalDescription>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101348">Photography of gardens</topic>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85053123">Gardens, American</topic>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85103022">Plants, Ornamental</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Knoxville Gardens Slides</title>
+    </titleInfo>
+    <identifier>MS.1324</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v88w3bgf</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="COLLECTION_POLICY.3" LABEL="Collection policy" CREATED="2019-02-13T16:30:42.286Z" MIMETYPE="application/xml" SIZE="535">
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+  <content_models>
+    <content_model dsid="" name="Islandora Large Image Content Model" namespace="knoxgardens" pid="islandora:sp_large_image_cmodel"></content_model>
+  </content_models>
+  <search_terms></search_terms>
+  <staging_area></staging_area>
+  <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="COLLECTION_POLICY.4" LABEL="Collection policy" CREATED="2019-02-13T16:30:42.332Z" MIMETYPE="text/xml" SIZE="535">
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+  <content_models>
+    <content_model dsid="" name="Islandora Large Image Content Model" namespace="knoxgardens" pid="islandora:sp_large_image_cmodel"></content_model>
+  </content_models>
+  <search_terms></search_terms>
+  <staging_area></staging_area>
+  <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" FEDORA_URI="info:fedora/collections:knoxgardens/MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2018-03-23T13:07:25.740Z" MIMETYPE="application/xml" SIZE="1107">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="6f30f69ae3a04ebc87f93f8044d4c7ad1a96f904b0411dfdf49daac2a2711bb9"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2018-03-23T13:07:25.740Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2019-01-15T16:27:24.403Z" MIMETYPE="application/xml" SIZE="4341">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="8e277bf12a3ef0f7a3110f400c81fca0fc23662f743f6e683e2ab1082dbf3437"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-01-15T16:27:24.403Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.2" LABEL="MODS Record" CREATED="2019-02-11T20:05:18.879Z" MIMETYPE="application/xml" SIZE="4660">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="7f1a7a31c67d8f30abe41adbfb37e5a32937cad08ceacb1265616fe81041d6b8"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-02-11T20:05:18.879Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.3" LABEL="MODS Record" CREATED="2019-02-11T20:06:40.126Z" MIMETYPE="application/xml" SIZE="4216">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="a89baeb669aa28015ca963875fb15290fa67d400b001c8aa222c9af143082665"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-02-11T20:06:40.126Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.4" LABEL="MODS Record" CREATED="2019-02-13T16:42:31.673Z" MIMETYPE="application/xml" SIZE="4274">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="08c36564d54219bfd150ea533eb6914a3610c80bcd29ca96672abdfe6c5d965a"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-02-13T16:42:31.673Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.5" LABEL="MODS Record" CREATED="2019-02-22T13:21:59.380Z" MIMETYPE="application/xml" SIZE="4270">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="621c433cb080e0f2d30dae1dfdc1c9d435c303fb4b148d6025c9a366ca49f20e"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-02-22T13:21:59.380Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.6" LABEL="MODS Record" CREATED="2019-10-15T14:33:08.865Z" MIMETYPE="application/xml" SIZE="4600">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="c60538ec58e7cd5307eb879f05cb1e484233e262998bf6d00daaebf09445c669"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-10-15T14:33:08.865Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.7" LABEL="MODS Record" CREATED="2019-10-16T15:35:55.463Z" MIMETYPE="application/xml" SIZE="4647">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="156fdaac06bdf1070502abf1716b35f80b946b8e258cee19f302b7dc76eb7c1c"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-10-16T15:35:55.463Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.8" LABEL="MODS Record" CREATED="2019-12-06T19:40:01.767Z" MIMETYPE="application/xml" SIZE="3435">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="26660c6cbdb1d7e85e3de3b9d7edf108fc22d02d560fae5a2f83d70e7ce3f4bb"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-12-06T19:40:01.767Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.9" LABEL="MODS Record" CREATED="2019-12-06T19:40:31.064Z" MIMETYPE="application/xml" SIZE="3762">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="0a2adf4b807165824a28d30f7dad3d17fa1c663f0effc934ad9baf770f33d60d"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2019-12-06T19:40:31.064Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.10" LABEL="MODS Record" CREATED="2020-05-14T15:38:51.296Z" MIMETYPE="application/xml" SIZE="3883">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="9b91d8127d6f24717107b94ca980533335220ce9f7d2c93fb3a78f5fdabee44a"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/MODS/2020-05-14T15:38:51.296Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" FEDORA_URI="info:fedora/collections:knoxgardens/DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2018-03-23T13:07:25.740Z" MIMETYPE="text/xml" SIZE="433">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Knoxville Gardens Slides</dc:title>
+  <dc:identifier>collections:knoxgardens</dc:identifier>
+  <dc:language>eng</dc:language>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="DC Record" CREATED="2019-02-22T13:21:59.477Z" MIMETYPE="text/xml" SIZE="1378">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Knoxville Garden Slides</dc:title>
+  <dc:subject>Photography of gardens</dc:subject>
+  <dc:subject>Gardens, American</dc:subject>
+  <dc:subject>Plants, Ornamental</dc:subject>
+  <dc:description>This collection of hand-colored lantern slides depicts ornamental gardens in the Knoxville, Tennessee, area from the early twentieth century, and feature a variety of garden styles, plants, flowers, and foliage.</dc:description>
+  <dc:contributor>Jim Thompson Company (Photographer)</dc:contributor>
+  <dc:contributor>Bruner, Mrs. A. C. (Donor)</dc:contributor>
+  <dc:date>1927-1939</dc:date>
+  <dc:type>Collection</dc:type>
+  <dc:type>StillImage</dc:type>
+  <dc:format>99 lantern slides</dc:format>
+  <dc:identifier>collections:knoxgardens</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Knoxville Gardens Slides--MS.1324--https://n2t.net/ark:/87290/v88w3bgf</dc:relation>
+  <dc:coverage>Knoxville (Tenn.)</dc:coverage>
+  <dc:coverage>35.96064, -83.92074</dc:coverage>
+  <dc:rights>In Copyright</dc:rights>
+  <dc:rights>Copyright Not Evaluated</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="DC Record" CREATED="2019-12-06T19:40:01.914Z" MIMETYPE="text/xml" SIZE="1469">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Knoxville Garden Slides</dc:title>
+  <dc:subject>Photography of gardens</dc:subject>
+  <dc:subject>Gardens, American</dc:subject>
+  <dc:subject>Plants, Ornamental</dc:subject>
+  <dc:description>This collection of hand-colored lantern slides dates from the late 1920s and early 1930s. The slides depict ornamental gardens in the Knoxville, Tennessee, area and feature a variety of garden styles, plants, flowers, and foliage.</dc:description>
+  <dc:contributor>Jim Thompson Company (Photographer)</dc:contributor>
+  <dc:contributor>Bruner, Mrs. A. C. (Donor)</dc:contributor>
+  <dc:date>1927-1939</dc:date>
+  <dc:type>Collection</dc:type>
+  <dc:type>StillImage</dc:type>
+  <dc:format>99 lantern slides</dc:format>
+  <dc:identifier>collections:knoxgardens</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Knoxville Gardens Slides--MS.1324--https://n2t.net/ark:/87290/v88w3bgf</dc:relation>
+  <dc:relation>Mrs. Hazz&apos;s Dogwoods--knoxgardens:133</dc:relation>
+  <dc:coverage>Knoxville (Tenn.)</dc:coverage>
+  <dc:coverage>35.96064, -83.92074</dc:coverage>
+  <dc:rights>In Copyright</dc:rights>
+  <dc:rights>Copyright Not Evaluated</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" FEDORA_URI="info:fedora/collections:knoxgardens/TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2018-03-23T13:07:26.436Z" MIMETYPE="image/png" SIZE="5137">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/TN/2018-03-23T13:07:26.436Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.1" LABEL="Thumbnail" CREATED="2018-05-17T00:42:34.184Z" MIMETYPE="image/png" SIZE="65546">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/TN/2018-05-17T00:42:34.184Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PROJECT" FEDORA_URI="info:fedora/collections:knoxgardens/PROJECT" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PROJECT.0" LABEL="knoxgardens-Project.zip" CREATED="2018-10-05T18:00:45.429Z" MIMETYPE="application/x-zip" SIZE="2166212">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/PROJECT/2018-10-05T18:00:45.429Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="FEATURED" FEDORA_URI="info:fedora/collections:knoxgardens/FEATURED" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="FEATURED.0" LABEL="FEATURED" CREATED="2019-10-15T17:22:26.134Z" MIMETYPE="image/jpeg" SIZE="3116293">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/collections:knoxgardens/FEATURED/2019-10-15T17:22:26.134Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="knoxgardens:115" FEDORA_URI="info:fedora/knoxgardens:115"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Tulip Tree"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="comyn7"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2018-03-23T17:44:24.798Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2018-08-27T17:27:23.649Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" FEDORA_URI="info:fedora/knoxgardens:115/AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2018-03-23T17:44:24.798Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TECHMD</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-03-23T17:47:47.339Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-03-23T17:47:47.671Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>JPG</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-03-23T17:47:47.995Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>JP2</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-03-23T17:47:48.633Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2018-05-03T23:10:16.232Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>islandora</audit:responsibility>
+<audit:date>2018-05-03T23:10:16.267Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>JP2</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-08-21T15:38:24.148Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>JP2</audit:componentID>
+<audit:responsibility>comyn7</audit:responsibility>
+<audit:date>2018-08-21T15:38:38.684Z</audit:date>
+<audit:justification>Purged datastream (ID=JP2), versions ranging from 2018-08-21T11:38:24.148Z to 2018-08-21T11:38:24.148Z.  This resulted in the permanent removal of 1 datastream version(s) (2018-08-21T11:38:24.148Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2018-08-27T17:07:58.619Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2018-08-27T17:07:58.938Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-08-27T17:27:23.649Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" FEDORA_URI="info:fedora/knoxgardens:115/RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2018-03-23T17:44:24.798Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="564">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/knoxgardens:115">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/collections:knoxgardens"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:sp_large_image_cmodel"></fedora-model:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" FEDORA_URI="info:fedora/knoxgardens:115/MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2018-03-23T17:44:24.798Z" MIMETYPE="application/xml" SIZE="2748">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="e47fafe8a0892c7814f3483beef0856de2a921e266c592c2401330f63c8678fa"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/MODS/2018-03-23T17:44:24.798Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2018-08-27T17:07:58.619Z" MIMETYPE="application/xml" SIZE="2748">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="e47fafe8a0892c7814f3483beef0856de2a921e266c592c2401330f63c8678fa"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/MODS/2018-08-27T17:07:58.619Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.2" LABEL="MODS Record" CREATED="2018-08-27T17:07:58.938Z" MIMETYPE="application/xml" SIZE="3883">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="d9327fbc429564703b858de78646f41fe60af25533f7e621cb5f4c8d7c2dca04"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/MODS/2018-08-27T17:07:58.938Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" FEDORA_URI="info:fedora/knoxgardens:115/DC" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2018-03-23T17:44:24.798Z" MIMETYPE="application/xml" SIZE="1150">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/DC/2018-03-23T17:44:24.798Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" FEDORA_URI="info:fedora/knoxgardens:115/OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.0" LABEL="OBJ Datastream" CREATED="2018-03-23T17:44:24.798Z" MIMETYPE="image/tiff" SIZE="17765536">
+<foxml:contentDigest TYPE="SHA-256" DIGEST="2e152ea83ba7da24d87b865992a8b2eaa6b30d819bfe5289da80b2fdee62d447"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/OBJ/2018-03-23T17:44:24.798Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TECHMD" FEDORA_URI="info:fedora/knoxgardens:115/TECHMD" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TECHMD.0" LABEL="TECHMD" CREATED="2018-03-23T17:47:47.339Z" MIMETYPE="application/xml" SIZE="6948">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/TECHMD/2018-03-23T17:47:47.339Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" FEDORA_URI="info:fedora/knoxgardens:115/TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2018-03-23T17:47:47.671Z" MIMETYPE="image/jpeg" SIZE="31161">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/TN/2018-03-23T17:47:47.671Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.1" LABEL="Thumbnail" CREATED="2018-05-03T23:10:16.232Z" MIMETYPE="image/png" SIZE="31161">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/TN/2018-05-03T23:10:16.232Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.2" LABEL="Thumbnail" CREATED="2018-05-03T23:10:16.267Z" MIMETYPE="image/png" SIZE="48288">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/TN/2018-05-03T23:10:16.267Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="JPG" FEDORA_URI="info:fedora/knoxgardens:115/JPG" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="JPG.0" LABEL="Medium sized JPEG" CREATED="2018-03-23T17:47:47.995Z" MIMETYPE="image/jpeg" SIZE="84593">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/JPG/2018-03-23T17:47:47.995Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="JP2" FEDORA_URI="info:fedora/knoxgardens:115/JP2" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="JP2.0" LABEL="JPEG 2000" CREATED="2018-03-23T17:47:48.633Z" MIMETYPE="image/jp2" SIZE="370409">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/knoxgardens:115/JP2/2018-03-23T17:47:48.633Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>
