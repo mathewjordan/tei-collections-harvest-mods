@@ -16,37 +16,26 @@
     </role>
   </name>
   <subject>
-    <topic>Cowpens, Battle of, Cowpens, S.C., 1781.</topic>
+    <topic>Cowpens, Battle of, Cowpens, S.C., 1781</topic>
   </subject>
   <subject>
-    <topic>King&apos;s Mountain, Battle of, S.C., 1780.</topic>
+    <topic>King&apos;s Mountain, Battle of, S.C., 1780</topic>
   </subject>
   <subject>
-    <topic>Tennessee -- History -- Revolution, 1775-1783 -- Sources.</topic>
+    <topic>Tennessee -- History -- Revolution, 1775-1783 -- Sources</topic>
   </subject>
   <subject>
-    <topic>United States -- History -- Revolution, 1775-1783 -- Sources.</topic>
+    <topic>United States -- History -- Revolution, 1775-1783 -- Sources</topic>
   </subject>
   <subject>
-    <topic>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</topic>
+    <topic>Draper, Lyman Copeland, 1815-1891 -- Correspondence</topic>
   </subject>
   <subject>
-    <topic>Graham, James. Life of General Daniel Morgan.</topic>
+    <topic>Graham, James. Life of General Daniel Morgan</topic>
   </subject>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
   <location>
     <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
   </location>
-  <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Ramsey Family Papers</title>
-    </titleInfo>
-  </relatedItem>
-  <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>James Gettys McGready Ramsey Papers</title>
-    </titleInfo>
-  </relatedItem>
   <typeOfResource>text</typeOfResource>
   <language>
     <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -57,8 +46,18 @@
       <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </languageOfCataloging>
     <recordCreationDate>2020-04-23-04:00</recordCreationDate>
-    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
-          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
   </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Ramsey Family Letters</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ramsey Family Papers</title>
+    </titleInfo>
+    <identifier>MS.0253</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>

@@ -1,55 +1,50 @@
 
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-  <identifier type="local">0012_000543_000220_0000</identifier>
+  <identifier type="local">0012_000543_000220</identifier>
   <titleInfo>
     <title>Letter, Lyman Draper in Alexander, New York to George Washington Sevier, 1839 May 3</title>
   </titleInfo>
-  <abstract></abstract>
+  <abstract>Lyman, a writer, discusses himself and his work. He suggests the possibility of writing a biography of Sevier.</abstract>
   <originInfo>
     <dateCreated>1839 May 3</dateCreated>
     <dateCreated encoding="edtf">1839-05-03</dateCreated>
   </originInfo>
-  <name type="personal">
-    <namePart>Lyman Draper</namePart>
+  <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n50026255">
+    <namePart>Draper, Lyman Copeland, 1815-1891</namePart>
     <role>
-      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
     </role>
   </name>
-  <subject>
-    <topic>Blount, William, 1749-1800</topic>
+  <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2001120002">
+    <namePart>Sevier, George Washington, 1782-1849</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm>
+    </role>
+  </name>
+  <physicalDescription>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140194">
+    <topic>United States -- History -- War of 1812</topic>
   </subject>
-  <subject>
-    <topic>Dearborn, Henry, 1751-1829</topic>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056115">
+    <topic>Governors</topic>
   </subject>
-  <subject>
-    <topic>Henley, David, 1749-1823</topic>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85014152">
+    <topic>Biography</topic>
   </subject>
-  <subject>
-    <topic>Meigs, Return Jonathan, 1740-1823</topic>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/nr89016779">
+    <name>
+      <namePart>Sevier, John, 1745-1815</namePart>
+    </name>
   </subject>
-  <subject>
-    <topic>Overton, John, 1766-1833</topic>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
   </subject>
-  <subject>
-    <topic>Governors -- Tennessee.</topic>
-  </subject>
-  <subject>
-    <topic>United States -- History -- War of 1812.</topic>
-  </subject>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
   <location>
-    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <physicalLocation>University of Tennessee Knoxville. Special Collections</physicalLocation>
   </location>
-  <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>John Sevier Collection</title>
-    </titleInfo>
-  </relatedItem>
-  <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>John Sevier Collection, 1782-1839</title>
-    </titleInfo>
-  </relatedItem>
   <typeOfResource>text</typeOfResource>
   <language>
     <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -60,8 +55,18 @@
       <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </languageOfCataloging>
     <recordCreationDate>2020-04-23-04:00</recordCreationDate>
-    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
-          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
   </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>John Sevier Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>John Sevier Collection</title>
+    </titleInfo>
+    <identifier>MS.1941</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
